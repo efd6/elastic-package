@@ -25,15 +25,15 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.2.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/tebeka/go2xunit v1.4.10
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
-	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602
-	golang.org/x/tools v0.1.5
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
+	golang.org/x/tools v0.2.0
+	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.6.3
 	honnef.co/go/tools v0.2.1
-	k8s.io/apimachinery v0.22.1
+	k8s.io/apimachinery v0.26.1
 	k8s.io/cli-runtime v0.22.1
-	k8s.io/client-go v0.22.1
+	k8s.io/client-go v0.26.1
 )
